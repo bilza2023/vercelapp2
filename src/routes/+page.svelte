@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+
+<h1 class="bg-green-900 p-2 m-2 border-2 border-red-900 ">Why will other things not work?</h1>
